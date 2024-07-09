@@ -28,7 +28,7 @@ const EXP_DATA = [
   {
     company: "Competent groove",
     id: 2,
-    duration: "Apr2022 - Aug2022",
+    duration: "Apr2022 -Aug2022",
     content: (
       <ul className="list-disc pl-4">
         <li>
@@ -80,10 +80,10 @@ const Experience = () => {
         {EXP_DATA.map((item) => (
           <div key={item.id} className="bg-[#121212] h-auto rounded-t-xl">
             <div className="flex flex-row gap-2 justify-around m-4">
-              <h1 className="text-white text-xl font-semibold">
+              <h1 className="text-white text-sm md:text-xl font-semibold">
                 {item.company}
               </h1>
-              <p className="text-[#ADB7BE] text-lg font-medium">
+              <p className="text-[#ADB7BE] text-sm md:text-lg font-bold">
                 {item.duration}
               </p>
             </div>

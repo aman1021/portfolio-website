@@ -31,12 +31,12 @@ const HeroSection = () => {
           interactive and responsive web applications.
           </p>
           <div>
-            <a href="mailto:amaniiitu32@gmail.com" className="text-black w-full sm:w-fit px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200">
-              Hire me
-            </a>
-            <a target="_blank" href="https://drive.google.com/file/d/1wT9aqSblzV_VoMzaydhHbf3xkervlPi-/view?usp=sharing" className="text-white w-full sm:w-fit px-6 py-3 rounded-full bg-transparent  hover:bg-slate-800 border border-white mt-3">
-              Download Resume
-            </a>
+            <button  className="text-black w-full sm:w-fit px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200">
+              <a href="mailto:amaniiitu32@gmail.com">Hire Me</a>
+            </button>
+            <button  className="text-white w-full sm:w-fit px-6 py-3 rounded-full bg-transparent  hover:bg-slate-800 border border-white mt-3">
+             <a target="_blank" href="https://drive.google.com/file/d/1wT9aqSblzV_VoMzaydhHbf3xkervlPi-/view?usp=sharing">Download Resume</a>
+            </button>
           </div>
         </div>
         <div className="col-span-5 place-self-center mt-8 lg:mt-0">
