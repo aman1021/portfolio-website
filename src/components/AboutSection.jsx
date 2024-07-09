@@ -8,16 +8,31 @@ const TAB_DATA = [
     title: "Skills",
     id: "Skills",
     content: (
-      <ul className="grid grid-cols-4 gap-4 pl-2" >
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">Javascript</li>
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">React.js</li>
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">Next.js</li>
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">React Native</li>
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">Node.js</li>
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">Express</li>
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">Tailwind CSS</li>
-        <li className="p-2 w-full rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">Git</li>
-
+      <ul className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-4 pl-2">
+        <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          Javascript
+        </li>
+        <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          React.js
+        </li>
+        <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          Next.js
+        </li>
+        <li className="p-2 rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          React Native
+        </li>
+        <li className="p-2 rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          Node.js
+        </li>
+        <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          Express
+        </li>
+        <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          Tailwind CSS
+        </li>
+        <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          Git
+        </li>
       </ul>
     ),
   },
