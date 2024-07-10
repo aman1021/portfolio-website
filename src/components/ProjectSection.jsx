@@ -26,8 +26,8 @@ const projectsData = [
     description: "I am a full stack web developer with a passion for creating interactive and responsive web applications. I have experience working with JavaScript, React, Next, Redux, Node.js, Express, HTML, CSS, and Git.",
     image: "/images/projects/portfolio.png",
     tab: ["All", "Web"],
-    gitUrl: "/",
-    liveUrl:"/"
+    gitUrl: "https://github.com/aman1021/portfolio-website",
+    liveUrl:"https://portfolio-website-tawny-zeta-49.vercel.app/"
   },
 ];
 
