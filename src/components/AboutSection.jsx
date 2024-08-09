@@ -44,7 +44,7 @@ const TAB_DATA = [
     id: "Education",
     content: (
       <ul className="list-disc pl-2 ">
-        <li>Inidan Institute Of Information Technology, Una(2018-2022)</li>
+        <li>Indian Institute Of Information Technology, Una(2018-2022)</li>
       </ul>
     ),
   },
@@ -69,7 +69,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg ">
             I am a full stack web developer with a passion for creating
             interactive and responsive web applications. I have experience
-            working with JavaScript, React, Next, Redux, Node.js, Express, HTML,
+            working with JavaScript, React.js, Next.js, Redux, Node.js, Express, HTML,
             CSS, and Git. I am a quick learner and I am always looking to expand
             my knowledge and skill set. I am a team player and I am excited to
             work with others to create amazing applications.

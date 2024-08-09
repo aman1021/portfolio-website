@@ -32,10 +32,10 @@ const HeroSection = () => {
           </p>
           <div>
             <button  className="text-black w-full sm:w-fit px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200">
-              <a href="mailto:amaniiitu32@gmail.com">Hire Me</a>
+              <a href="mailto:amaniiitu32@gmail.com">Contact Me</a>
             </button>
             <button  className="text-white w-full sm:w-fit px-6 py-3 rounded-full bg-transparent  hover:bg-slate-800 border border-white mt-3">
-             <a target="_blank" href="https://drive.google.com/file/d/1wT9aqSblzV_VoMzaydhHbf3xkervlPi-/view?usp=sharing">Download Resume</a>
+             <a target="_blank" href="https://drive.google.com/file/d/13jGDT4NG43HRgJTfN4330nrjZKv8TK_T/view">View Resume</a>
             </button>
           </div>
         </div>
