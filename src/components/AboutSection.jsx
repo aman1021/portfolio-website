@@ -36,6 +36,9 @@ const TAB_DATA = [
         <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
           Typescript
         </li>
+        <li className="p-2  rounded-full text-center bg-[#121212] hover:bg-white hover:text-black">
+          MongoDB
+        </li>
       </ul>
     ),
   },

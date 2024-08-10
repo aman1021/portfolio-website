@@ -27,7 +27,16 @@ const projectsData = [
     image: "/images/projects/portfolio.png",
     tab: ["All", "Web"],
     gitUrl: "https://github.com/aman1021/portfolio-website",
-    liveUrl:"https://portfolio-website-tawny-zeta-49.vercel.app/"
+    liveUrl:"https://portfolio-website-g3k3.vercel.app/"
+  },
+  {
+    id: 4,
+    title: "Blog-App",
+    description: "A fullstack web app using Next.js. This web app allows users to explore blog posts across various categories like Technology, Startup, and Lifestyle. It features an easy-to-navigate interface with options to read, filter, and add blogs.",
+    image: "/images/projects/blogApp.png",
+    tab: ["All", "Web"],
+    gitUrl: "https://github.com/aman1021/Blog-App",
+    liveUrl:"https://blog-app-phi-green.vercel.app/"
   },
 ];
 
